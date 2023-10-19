@@ -145,5 +145,21 @@ min-height: 25px;
 .recipeBox{
 font-size: 1.1rem;
 }
+@media (min-width:640px)
+{
+    .item{
+        flex-direction: row;
+    }
+}
+   
+@media (max-width:640px)
+{
+    .item{
+        flex-direction: column;
+    }
+}
+
+
+
 
 
