@@ -7,7 +7,7 @@
 }
 
 
-/* .navContainer{
+.navContainer{
     
     width: 100vw;
     background-color: #0093E9;
@@ -49,13 +49,13 @@ a{
     display: flex;
     gap: 40px;
     
-} */
+}
 
 
 
 /* NAVBAR  */
 
-.header{
+/* .header{
     height: 80px;
     background-color: #0093E9;
     display: flex;
@@ -87,7 +87,7 @@ a{
 .navbar a{
 font-size: 40px;
 color: white;
-}
+} */
 
 
 /* MAIN SECTION  */
